@@ -12,7 +12,6 @@ public:
     char name[50], company[50];
 };
 
-
 class store
 {
 public:
